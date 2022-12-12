@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tio Dwi Satrio</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
+<br>
 <img align="right" alt="coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
 - 🌱 I’m currently learning **Express JS**
