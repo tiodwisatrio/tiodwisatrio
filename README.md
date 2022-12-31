@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN (MySQL, ExpressJS, ReactJS, NodeJS)**
 
-- 📫 How to reach me **tiodwisatrio@gmail.com**
+- 📫 How to reach me **tiodwisatrio27@gmail.com**
 
 - ⚡ Fun fact **I have a good sense of humor**
 
